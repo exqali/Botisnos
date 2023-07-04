@@ -69,6 +69,7 @@ Disclaimers are listed on the [DISCLAIMERS.md](./DISCLAIMERS.md) file.
 ### Developers
 - [@Mednoob](https://github.com/Mednoob)
 - [@mzrtamp](https://github.com/mzrtamp)
+- [@exqali](https://github.com/exqali)
 
 ### Translators
 - [Developers](#developers) (en, id)
@@ -76,5 +77,6 @@ Disclaimers are listed on the [DISCLAIMERS.md](./DISCLAIMERS.md) file.
 - [@lxndr-rl](https://github.com/lxndr-rl) (es)
 - [@MoustacheOff](https://github.com/MoustacheOff) (fr)
 - [@RabbitYuKu](https://github.com/RabbitYuKu) (zh-CN, zh-TW)
+- [@exqali](https://github.com/exqali) (tr-TR)
 
 > © 2023 Clytage Development
